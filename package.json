@@ -1,0 +1,19 @@
+{
+  "name": "chinese",
+  "version": "1.0.0",
+  "description": "Chinese flashcards",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamester543/chinese.git"
+  },
+  "author": "Robert Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gamester543/chinese/issues"
+  },
+  "homepage": "https://github.com/gamester543/chinese#readme"
+}
